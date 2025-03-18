@@ -1,0 +1,8 @@
+python==3.10.6
+streamlit
+nltk
+transformers
+torch
+pyaudio
+SpeechRecognition
+numpy
